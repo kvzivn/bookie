@@ -1,0 +1,45 @@
+{
+  "name": "bookie",
+  "description": "Unique handmade books and jewellery - made to be loved.",
+  "version": "0.0.1",
+  "author": "Kevin Ivan <hello@kevinivan.com>",
+  "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "@mdx-js/react": "^1.5.1",
+    "@theme-ui/components": "^0.2.49",
+    "@theme-ui/presets": "^0.2.44",
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.17.11",
+    "gatsby-image": "^2.2.31",
+    "gatsby-plugin-env-variables": "^1.0.1",
+    "gatsby-plugin-manifest": "^2.2.27",
+    "gatsby-plugin-offline": "^3.0.19",
+    "gatsby-plugin-react-helmet": "^3.1.14",
+    "gatsby-plugin-sharp": "^2.2.37",
+    "gatsby-plugin-theme-ui": "^0.2.43",
+    "gatsby-source-filesystem": "^2.1.36",
+    "gatsby-source-shopify": "^3.0.41",
+    "gatsby-theme-shopify-manager": "^0.1.5",
+    "gatsby-theme-style-guide": "^0.2.49",
+    "gatsby-transformer-sharp": "^2.3.3",
+    "normalize.css": "^8.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1",
+    "shopify-buy": "^2.9.0",
+    "theme-ui": "^0.2.49"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvzivn/bookie"
+  }
+}
